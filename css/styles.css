@@ -1,0 +1,130 @@
+body {
+    font-family: 'Merriweather', serif;
+}
+
+#title {
+    background-color:purple;
+    
+}
+.logos{
+    padding-right:5px;
+    color: white;
+}
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+    font-weight: bolder;
+
+}
+
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+p {
+    color: grey;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+nav-item{
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    margin: 0 30px 0px 0px;
+}
+
+.img {
+    width: 50%;
+    position: relative;
+    top: 10px;
+    transform: rotate(25deg);
+    margin-left: 100px;
+
+}
+
+
+/* Features section */
+#features {
+    padding: 7% 15%;
+}
+
+.features-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: purple;
+    margin-bottom: 20px;
+}
+
+.icon:hover {
+    color: burlywood;
+}
+
+#test {
+    background-color:purple;
+    text-align: center;
+    
+
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#press {
+    background-color:purple;
+    text-align: center;
+    padding-bottom: 4%;
+}
+
+.logo {
+    width: 15%;
+    margin: 10px 20px 10px 10px;
+
+}
+#pricing{
+    padding: 12%;
+    text-align: center;
+}
+#cta{
+    background-color: purple;
+    padding: 150px 200px;
+    text-align: center;   
+}
+.download-button{
+    margin-right: 5px;
+    
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.fm{
+    margin-top: 10px;
+}
